@@ -1,0 +1,27 @@
+html{
+    background-color: bisque;
+}
+body{
+    padding:1px;
+    background-color: white ; 
+    width:800px;
+    HEIGHT:800PX
+
+}
+
+.row{
+    height:100px;
+    width:800px;
+}
+.box{
+    height:100px;
+    width:100px;
+    background-color: white;
+    float:left;
+}
+.black{
+    height:100px;
+    width:100px;
+    background-color: black;
+    float:left;
+}
